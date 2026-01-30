@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 # nv-webblog68
-thanakorn nakphook
+Passakorn Samakal
 CSIT
 =======
 # Vue 3 + Vite
